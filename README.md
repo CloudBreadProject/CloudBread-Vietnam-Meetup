@@ -4,6 +4,7 @@ This is the first CloudBread Vietnam Meetup repository
 ###Meetup history
 Meetup datetime : Fri, October 28, 2016 2:00 PM – 4:00 PM ICT  
 Location : Citi Hub Co-working Space & Coffee Shop, 93 Bis Nguyen Van Thu, Dakao Ward, District 1 HCMC  
+[Eventbrite link](https://www.eventbrite.com/e/mobile-game-service-cloudbread-tickets-28647345983)
 
 ### Presentation file
 CloudBread Vietnam meetup presentation file is located in docs folder.
